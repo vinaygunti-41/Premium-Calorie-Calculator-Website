@@ -57,6 +57,8 @@ Designed with a **Luxury Neon Blue UI**, glassmorphism cards, smooth animations,
 
 ### 🖥️ Premium Dashboard
 
+TRY IT:- https://classic-fuchsia-geqzvugb.edgeone.dev/
+
 https://github.com/user-attachments/assets/2743607b-067a-498f-b6dc-6c490db3ce6c
 
 
